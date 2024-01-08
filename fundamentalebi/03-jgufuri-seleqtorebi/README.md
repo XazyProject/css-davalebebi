@@ -14,7 +14,7 @@
 
 # უნდა გამოვიდეს ასეთი:
 
-
+![dasrulebuli](https://raw.githubusercontent.com/XazyProject/css-davalebebi/main/fundamentalebi/03-jgufuri-seleqtorebi/dasrulebuli.png?token=GHSAT0AAAAAACMIWC6D2EJNMT2ATI32DEO6ZM4MZIA)
 
 ### გადამოწმება:
 
