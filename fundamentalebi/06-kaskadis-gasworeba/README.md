@@ -8,7 +8,7 @@
 
 # უნდა გამოვიდეს ასეთი:
 
-
+![dasrulebuli](https://raw.githubusercontent.com/XazyProject/css-davalebebi/main/fundamentalebi/06-kaskadis-gasworeba/dasrulebuli.png?token=GHSAT0AAAAAACMIWC6DGIYENHH5457Y5LNIZM5MAAQ)
 
 ### გადამოწმება:
 
