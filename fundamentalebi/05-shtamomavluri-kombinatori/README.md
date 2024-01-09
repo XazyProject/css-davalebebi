@@ -12,7 +12,7 @@
 
 # უნდა გამოვიდეს ასეთი:
 
-
+![dasrulebuli](https://raw.githubusercontent.com/XazyProject/css-davalebebi/main/fundamentalebi/05-shtamomavluri-kombinatori/dasrulebuli.png?token=GHSAT0AAAAAACMIWC6CEF6XIASBFVB4JYQSZM5JHZA)
 
 ### გადამოწმება:
 
