@@ -2,6 +2,8 @@
 
 ამ დავალებას მოყვება index.html და style.css, რომლის css ფაილში დარედაქტირება მოგიწევთ, ისე, რომ მიიღოთ სურათზე ნაჩვენები შედეგი. თქვენ მხოლოდ მოგიწევთ margin-ისა და padding-ის მნიშვნელობების შეცვლა. თქვენ არ უნდა დაამატოთ ან წაშალოთ CSS სტილები, ასევე არ უნდა შეეხოთ HTML ფაილს.
 
+# დასრულებული
+
 ![dasrulebuli](https://raw.githubusercontent.com/XazyProject/css-davalebebi/main/margin-da-padding/01-margin-da-padding-1/dasrulebuli.png)
 
 # გადამოწმება
