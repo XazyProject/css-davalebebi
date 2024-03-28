@@ -12,13 +12,13 @@
 
 ## ამოხსნა
 
-![amoxsna](./amoxsna.png)
+![amoxsna](./dasrulebuli.png)
 
 კარტის რაოდენობა შეიცვლება თქვენი ეკრანის ზომის მიხედვით.
 
 პატარა ეკრანზე ასე იქნება:
 
-![patara](./amoxsna-patara.png)
+![patara](./dasrulebuli-patara.png)
 
 თქვენთან თუ არ იმუშავა ემოჯიებმა, არაუშავს, გაატარე.
 
