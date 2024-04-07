@@ -4,7 +4,7 @@
 
 # დასრულებული
 
-![dasrulebuli](https://raw.githubusercontent.com/XazyProject/css-davalebebi/main/margin-da-padding/02-margin-da-padding-2/dasrulebuli.png)
+![dasrulebuli](./dasrulebuli.png)
 
 # გადამოწმება
 

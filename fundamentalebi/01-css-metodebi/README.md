@@ -16,7 +16,7 @@
 
 # უნდა გამოვიდეს ასეთი:
 
-![dasrulebuli](https://raw.githubusercontent.com/XazyProject/css-davalebebi/main/fundamentalebi/01-css-metodebi/dasrulebuli.png?token=GHSAT0AAAAAACMIWC6CRAN22ORTAKT3DOCCZM4MQRA)
+![dasrulebuli](./dasrulebuli.png)
 
 ### გადამოწმება
 
